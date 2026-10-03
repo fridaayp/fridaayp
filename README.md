@@ -58,7 +58,8 @@ I enjoy turning data into actionable business insights that support decision-mak
 - Certified Financial Administration Officer - BNSP, 2024
 - Risk Management - New York Institute of Finance Short Course, 2023
 - Big 4 Auditor & Financial Analyst - Harisenin.com Bootcamp, 2022
- 
+
+
 ---
 
 ## Connect With Me
