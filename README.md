@@ -45,28 +45,25 @@ I enjoy turning data into actionable business insights that support decision-mak
 
 ## Education
 
-🎓 Master of Management (Finance)
-State University of Jakarta (2025)
+🎓 Master of Management (Finance) - State University of Jakarta (2025)
 
-🎓 Bachelor of Management (Finance)
-Perbanas Institute (2022)
+🎓 Bachelor of Management (Finance) - Perbanas Institute (2022)
 
-🎓 Vocational Degree in Agribusiness Management
-Bogor Agricultural University (2018)
+🎓 Vocational Degree in Agribusiness Management - Bogor Agricultural University (2018)
 
 ---
 ## Certifications
-- Certified Business Intelligence Analyst (BNSP)
-- Data Analyst with SQL & Python in Google Looker Studio (DQLab)
-- Certified Financial Administration Officer (BNSP)
-- Risk Management (New York Institute of Finance)
-- Big 4 Auditor & Financial Analyst Bootcamp
+- Certified Business Intelligence Analyst - BNSP, 2026
+- Data Analyst with SQL & Python in Google Looker Studio - DQLab Bootcamp, 2026
+- Certified Financial Administration Officer - BNSP, 2024
+- Risk Management - New York Institute of Finance Short Course, 2023
+- Big 4 Auditor & Financial Analyst - Harisenin.com Bootcamp, 2022
  
 ---
 
 ## Connect With Me
-📧 frida.yuniar29@gmail.com
-💼 LinkedIn: linkedin.com/in/fridaayp
+📧 frida.yuniar29@gmail.com |
+💼 LinkedIn: linkedin.com/in/fridaayp |
 📍 Bekasi, West Java, Indonesia
 
 *"Transforming data into business insights for better decisions and sustainable growth."*
