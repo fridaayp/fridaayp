@@ -1,70 +1,63 @@
-# Hi, I'm Frida Yuniar Prastika 👋
+# Frida Yuniar Prastika
 
-### Bancassurance Business Development | Strategic Partnership & Operations Specialist
+**Strategic Partnerships & Business Development | Distribution Strategy | Business Analytics | Financial Services**
 
-Graduate as Master of Management (Finance) from State University of Jakarta with 6+ years of experience in partnership distribution, business operations, data analytics, budget management, and project implementation across the insurance and multi-finance industries.
+Business professional with experience across strategic partnerships, partnership distribution, business development, analytics, and project implementation within financial services and multi-finance.
 
-## About Me
+My work sits at the intersection of **partnerships, distribution, data, and execution**. I focus on translating business requirements and performance data into actionable initiatives, coordinating stakeholders, and supporting strategic growth.
 
-I enjoy turning data into actionable business insights that support decision-making, operational excellence, and strategic growth. My experience spans insurance and multi-finance sectors, with expertise in business reporting, budget management, performance analytics, KPI monitoring, and digital transformation initiatives.
+## Professional Focus
 
----
-## Professional Experience
+- Strategic Partnerships
+- Partnership Distribution
+- Distribution Strategy
+- Business Development
+- Channel Management
+- Business Analytics
+- Performance Management
+- Project Implementation
+- Stakeholder Management
+- Financial Services
+- Bancassurance
+- Tableau
 
-### Allianz Indonesia
+## Experience
 
-**Partnership Distribution Allianz - Maybank**
+### Allianz Life Indonesia
 
-*Apr 2024 – Present*
+**Partnership Distribution** | Apr 2024 – Present
 
-- Generate daily production and activity reports through comprehensive data validation.
-- Analyze business performance data and prepare executive management presentations.
-- Validate products, programs, events and business trip proposals while ensuring alignment with corporate compliance and budget allocations.
+Support partnership distribution initiatives across the financial services ecosystem, including stakeholder coordination, distribution performance monitoring, business analysis, and implementation of partnership initiatives.
 
 ### PT Bussan Auto Finance
 
-**Business and Operation Support**
+**Business / Operations & Performance** | Mar 2020 – Apr 2024
 
-*Jun 2023 – Apr 2024*
+- Supported business operations and performance management across **29 regional networks**.
+- Developed and utilized **Tableau-based reporting** for approximately **88 BRH and Chief CMO stakeholders**.
+- Translated business and operational data into actionable performance insights.
+- Supported implementation of a **digital invoicing initiative** across regional operations, coordinating with Legal and other stakeholders.
+- Connected business requirements, data, stakeholder needs, and execution across cross-functional initiatives.
 
-- Managed marketing budgets across multiple business lines.
-- Maintained operational and dealer commission data.
-- Conducted audits to ensure data integrity and process accuracy.
- 
-### PT Bussan Auto Finance
+## Professional Direction
 
-**Business and Operation Support Motorcycle**
+Open to opportunities in:
 
-*Mar 2020 – Jun 2023*
- 
-- Monitored KPI achievement and sales productivity across 29 regional networks.
-- Developed Tableau dashboards for management reporting.
-- Led data initiatives for national digital transformation projects.
+**Strategic Partnerships · Partnership Distribution · Distribution Strategy · Business Development · Business Performance · Business Analytics · Strategic Initiatives · Project Implementation · Business Transformation**
 
----
+Especially within **insurance, financial services, fintech, and adjacent industries**.
 
 ## Education
 
-🎓 Master of Management (Finance) - State University of Jakarta (2025)
+**Master of Management (Finance)** — State University of Jakarta, 2025
 
-🎓 Bachelor of Management (Finance) - Perbanas Institute (2022)
+**Bachelor of Management (Finance)** — Perbanas Institute, 2022
 
-🎓 Vocational Degree in Agribusiness Management - Bogor Agricultural University (2018)
+## Professional Links
 
----
-## Certifications
-- Certified Business Intelligence Analyst - BNSP, 2026
-- Data Analyst with SQL & Python in Google Looker Studio - DQLab Bootcamp, 2026
-- Certified Financial Administration Officer - BNSP, 2024
-- Risk Management - New York Institute of Finance Short Course, 2023
-- Big 4 Auditor & Financial Analyst - Harisenin.com Bootcamp, 2022
-
+- [LinkedIn](https://id.linkedin.com/in/fridaayp)
+- [Research Publications](https://github.com/fridaayp/research-publications)
 
 ---
 
-## Connect With Me
-📧 frida.yuniar29@gmail.com |
-💼 LinkedIn: linkedin.com/in/fridaayp |
-📍 Bekasi, West Java, Indonesia
-
-*"Transforming data into business insights for better decisions and sustainable growth."*
+*Frida Yuniar Prastika — Strategic Partnerships, Distribution Strategy & Business Analytics*
