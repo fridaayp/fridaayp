@@ -8,9 +8,9 @@ My work connects business objectives with data-driven insights and cross-functio
 
 I am interested in opportunities across Strategic Partnerships, Business Development, Distribution Strategy, and Business Analytics, particularly within insurance, financial services, fintech, and adjacent industries.
 
-### Portfolio Website (https://fridaayp.github.io/fridaayp/) 
+### [Portfolio Website](https://fridaayp.github.io/fridaayp/) 
 
-### LinkedIn (https://id.linkedin.com/in/fridaayp)
+### [LinkedIn](https://id.linkedin.com/in/fridaayp)
 
 ---
 
@@ -51,8 +51,8 @@ Business and Operation Support Motorcycle | March 2020 – June 2023
 
 An independent portfolio project exploring how analytics can support insurance distribution performance monitoring, partner evaluation, and follow-up prioritization.
 
-- "Launch Live Dashboard" (https://fridaayp-insurance-distribution-intelligence-app-f2ueqo.streamlit.app/)
-- "Explore Source Code" (https://github.com/fridaayp/insurance-distribution-intelligence)
+- [Launch Live Dashboard](https://fridaayp-insurance-distribution-intelligence-app-f2ueqo.streamlit.app/)
+- [Explore Source Code](https://github.com/fridaayp/insurance-distribution-intelligence)
 
 Technology: Python · pandas · Streamlit · Plotly
 
@@ -84,9 +84,9 @@ My academic interests focus on behavioral finance, managerial overconfidence, co
 
 Research interests include strategic risk-taking, strategic green risk allocation, and ESG governance architecture.
 
-- "Research Publications" (https://github.com/fridaayp/research-publications)
-- "ORCID" (https://orcid.org/0009-0004-2254-9165)
-- "SciProfiles" (https://sciprofiles.com/profile/fridaayp)
+- [Research Publications](https://github.com/fridaayp/research-publications)
+- [ORCID](https://orcid.org/0009-0004-2254-9165)
+- [SciProfiles](https://sciprofiles.com/profile/fridaayp)
 
 ## Career Direction
 
