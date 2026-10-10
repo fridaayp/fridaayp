@@ -53,6 +53,7 @@ An independent portfolio project exploring how analytics can support insurance d
 
 - [Launch Live Dashboard](https://fridaayp-insurance-distribution-intelligence-app-f2ueqo.streamlit.app/)
 - [Explore Source Code](https://github.com/fridaayp/insurance-distribution-intelligence)
+- [Project Overview & Dashboard Preview](https://github.com/fridaayp/insurance-distribution-intelligence#dashboard-preview)
 
 Technology: Python · pandas · Streamlit · Plotly
 
